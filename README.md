@@ -14,6 +14,10 @@ streamlit hello
 ```
 streamlit run first_app.py
 ```
+### run your script
+```
+streamlit run {xxx.py}
+```
 
 ### see localhost
 - use browser
